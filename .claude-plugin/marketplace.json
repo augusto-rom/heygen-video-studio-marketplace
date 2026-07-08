@@ -16,7 +16,7 @@
         "name": "Augusto Romano",
         "email": "augusto@digohispanicmedia.com"
       },
-      "source": "./plugins/heygen-video-studio",
+      "source": "./heygen-video-studio-marketplace/plugins/heygen-video-studio",
       "category": "productivity"
     }
   ]
