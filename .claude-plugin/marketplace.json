@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "augusto-romano",
+  "version": "1.0.0",
+  "description": "Marketplace de plugins para Cowork y Claude Code. Incluye HeyGen Video Studio para producir videos de avatar en serie.",
+  "owner": {
+    "name": "Augusto Romano",
+    "email": "augusto@digohispanicmedia.com"
+  },
+  "plugins": [
+    {
+      "name": "heygen-video-studio",
+      "description": "Escribe guiones y produce videos de avatar con HeyGen en serie a partir de un Google Sheet. Dos skills: guionista (escribe) y productor (genera los videos).",
+      "version": "0.1.0",
+      "author": {
+        "name": "Augusto Romano",
+        "email": "augusto@digohispanicmedia.com"
+      },
+      "source": "./plugins/heygen-video-studio",
+      "category": "productivity"
+    }
+  ]
+}
