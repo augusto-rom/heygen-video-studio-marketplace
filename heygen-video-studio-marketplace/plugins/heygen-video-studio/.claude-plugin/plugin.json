@@ -1,0 +1,9 @@
+{
+  "name": "heygen-video-studio",
+  "version": "0.1.0",
+  "description": "Escribe guiones y produce videos de avatar con HeyGen en serie, a partir de una hoja de produccion (Google Sheet). Portable y sin depender de ningun LMS o CMS.",
+  "author": {
+    "name": "Augusto Romano"
+  },
+  "keywords": ["heygen", "video", "guiones", "avatar", "entrenamiento", "lote"]
+}
